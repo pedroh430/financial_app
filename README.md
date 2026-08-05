@@ -1,2 +1,2 @@
-# delivery_app
-App for delivery of sweet
+# Financial app
+
